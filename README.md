@@ -73,7 +73,7 @@ Personalized category creation
 ## Authors
 
 - [@Gagancm](https://github.com/Gagancm)
-- [@Shruti]
-- [@Vedarani]
-- [@prathisha]
-- [@Jeet]
+- Shruti
+- Vedarani
+- prathisha
+- Jeet
